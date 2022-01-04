@@ -1,0 +1,30 @@
+{
+    "name": "can",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "canvas": "^2.8.0",
+        "canvas-constructor": "^5.0.1",
+        "cron": "^1.8.2",
+        "discord-buttons": "^4.0.0",
+        "discord-logs": "^2.0.1",
+        "discord.js": "^12.5.0",
+        "klaw": "^4.0.1",
+        "moment": "^2.29.1",
+        "mongoose": "^5.11.9",
+        "node-schedule": "^2.1.0",
+        "parse-ms": "^3.0.0",
+        "path": "^0.12.7",
+        "slot-machine": "^2.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.17.0"
+    },
+    "engines": {
+        "node": "12.x"
+    }
+}
