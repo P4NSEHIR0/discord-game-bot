@@ -6,4 +6,7 @@
 ![image](https://user-images.githubusercontent.com/77938499/148093501-95c9ff0f-b725-4f70-8561-a39f24700e76.png)
 
 
-
+# Kurulum
+1- Config dosyasını doldur
+2- Emojiler klasöründeki emojileri sunucuna ekle
+3- Terminali aç npm install, node .
