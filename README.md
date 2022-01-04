@@ -7,6 +7,6 @@
 
 
 # Kurulum
-1- Config dosyasını doldur
-2- Emojiler klasöründeki emojileri sunucuna ekle
+1- Config dosyasını doldur <br>
+2- Emojiler klasöründeki emojileri sunucuna ekle <br>
 3- Terminali aç npm install, node .
